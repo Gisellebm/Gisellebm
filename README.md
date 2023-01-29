@@ -1,6 +1,8 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG0VsoFwDUzEg/profile-displaybackgroundimage-shrink_350_1400/0/1667104614874?e=1680739200&v=beta&t=HGjiNksHSJBkUPeLPBvcKK_JH5_VSv_YGxq5218nTaw)](https://www.linkedin.com/in/giselle-brasil-macedo-729113137/)
-<h1 align="center">Hi 👋, I'm Giselle</h1>
-<h3 align="center">Someone who loves coding</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=413b8a&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f8da1&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Giselle+Macedo;Somenone+who+loves+coding;I+from+Brasil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gisellebm&label=Profile%20views&color=0e75b6&style=flat" alt="Gisellebm" /> </p>
 
@@ -9,9 +11,11 @@
 ---
 &nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gisellebm&show_icons=true&theme=radical" alt="Gisellebm" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gisellebm&show_icons=true&theme=blueberry" alt="Gisellebm" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gisellebm&theme=radical" alt="Gisellebm" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gisellebm&theme=blueberry" alt="Gisellebm" />
+</div>
 
 &nbsp;
 ---
@@ -23,7 +27,7 @@
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gisellebm&show_icons=true&locale=en&layout=compact&theme=radical" alt="Gisellebm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gisellebm&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Gisellebm" /></p>
 
 &nbsp;
 ---
