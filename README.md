@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQG0VsoFwDUzEg/profile-displaybackgroundimage-shrink_350_1400/0/1667104614874?e=1680739200&v=beta&t=HGjiNksHSJBkUPeLPBvcKK_JH5_VSv_YGxq5218nTaw)](https://www.linkedin.com/in/giselle-brasil-macedo-729113137/)
 <h1 align="center">Hi 👋, I'm Giselle</h1>
-<h3 align="center">Someone who love coding</h3>
+<h3 align="center">Someone who loves coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gisellebm&label=Profile%20views&color=0e75b6&style=flat" alt="Gisellebm" /> </p>
 
