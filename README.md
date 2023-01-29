@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=413b8a&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f8da1&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Giselle+Macedo;Somenone+who+loves+coding;I+from+Brasil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f8da1&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Giselle,+from+Brasil;Someone+who+loves+coding!)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gisellebm&label=Profile%20views&color=0e75b6&style=flat" alt="Gisellebm" /> </p>
