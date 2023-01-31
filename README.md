@@ -13,7 +13,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gisellebm&show_icons=true&theme=blueberry" alt="Gisellebm" />
-
+&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gisellebm&theme=blueberry" alt="Gisellebm" />
 </div>
 
