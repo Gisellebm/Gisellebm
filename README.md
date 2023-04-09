@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=413b8a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7395df&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f8da1&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Giselle,+from+Brasil;Someone+who+loves+coding!)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gisellebm&label=Profile%20views&color=0e75b6&style=flat" alt="Gisellebm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gisellebm&label=Profile%20views&color=7395df&style=flat" alt="Gisellebm" /> </p>
 
 - 📫 How to reach me: **gisellemacedo.dev@gmail.com**
 &nbsp;
@@ -23,6 +23,9 @@
 &nbsp;
 ---
 &nbsp;
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gisellebm&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br>   
 
 <h3 align="left">Languages and Tools:</h3>
 
