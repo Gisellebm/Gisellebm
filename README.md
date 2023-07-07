@@ -24,7 +24,6 @@
 ---
 &nbsp;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gisellebm&bg_color=0d1117&color=7395df&line=27e8a7&point=7cc7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br>   
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +47,11 @@
 
 &nbsp;
 ---
-&nbsp;
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Gisellebm&row=1"/></p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/giselle-brasil-macedo-729113137/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giselle-brasil-macedo-729113137/" height="30" width="40" /></a>
