@@ -3,8 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f8da1&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Giselle,+from+Brasil;Someone+who+loves+coding!)](https://git.io/typing-svg)
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Gisellebm&color=blue&style=for-the-badge" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gisellebm&label=Profile%20views&color=7395df&style=flat" alt="Gisellebm" /> </p>
+</div>
+
+
 
 - 📫 How to reach me: **gisellemacedo.dev@gmail.com**
 &nbsp;
