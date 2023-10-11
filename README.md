@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f8da1&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Giselle,+from+Brasil;Someone+who+loves+coding!)](https://git.io/typing-svg)
 
 &nbsp;
-<div align='left'>
+
+<div>
   <img src="https://komarev.com/ghpvc/?username=Gisellebm&color=blue&style=for-the-badge" />
 </div>
 
